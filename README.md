@@ -1,1 +1,1 @@
-A netflix clone made using html css and js
+A Netflix Clone made using HTML, CSS, JavaScript !
